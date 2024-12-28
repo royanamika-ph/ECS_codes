@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: EULER CHARACTERISTIC SURFACES CONSTRUCTION
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: 'ANAMIKA '
+    family-names: ROY
+    email: ms.royanamika91@gmail.com
+    affiliation: 'CHARUCHANDRA COLLEGE, KOLKATA '
+    orcid: 'https://orcid.org/0000-0002-5724-4044'
+identifiers:
+  - type: url
+    value: 'https://arxiv.org/abs/2408.09400'
+    description: arXiv version of manuscript
+repository-code: 'https://github.com/royanamika-ph/ECS_codes'
+keywords:
+  - ECS
+date-released: '2024-12-28'
