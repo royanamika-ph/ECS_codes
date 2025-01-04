@@ -43,17 +43,18 @@ This repository contains the codes used to construct the **Euler Characteristic 
    ```bash
    git clone [repository URL]
    cd [repository folder]
-Compile the Fortran program: bash Copy code   gfortran -o aggregation aggregation.f90
-  
+Compile the Fortran program:
+bash
+Copy code
+
+
+gfortran -o aggregation aggregation.f90
+
+
+
 Run the desired scripts using Python or the compiled Fortran executable.
 
 References
-If you use this code in your research, please cite the manuscript: 
+If you use this code in your research, please cite the manuscript:
 
-License
-[Insert License Type Here]
 
-Author
-Anamika Roy
-https://github.com/royanamika-ph
-www.linkedin.com/in/anamika-roy-706677204
