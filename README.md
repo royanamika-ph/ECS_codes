@@ -21,9 +21,14 @@ This repository contains the codes used to construct the **Euler Characteristic 
 
 ### `vis_point.py`
 - Generates point sets using the **Vicsek Model**.
+### `vis_order.py`
+- Generates point sets using the **Vicsek Model** and computes order parameter along with it.
 
 ### `vis_bd.py`
+- Computes the **Euler Metric (EM)** between ECSs with  ECS of noise zero as reference.
+### `vis_bd.py`
 - Computes the **Euler Metric (EM)** and **Wasserstein distance**.
+
 
 ---
 
